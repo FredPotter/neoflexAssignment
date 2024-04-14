@@ -1,0 +1,4 @@
+server:
+  port: 8080
+prod-calendar:
+  token: 96f8cc2e30021f1ae2916a151bfb6474
